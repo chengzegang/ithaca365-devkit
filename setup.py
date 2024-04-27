@@ -8,4 +8,4 @@ setup(name='ithaca365',
       url='https://ithaca365.mae.cornell.edu/',
       python_requires='>=3.6',
       packages=find_packages(),
-      install_requires=['opencv-python', 'numpy', 'Pillow', 'matplotlib', 'importlib_metadata', 'scikit-learn', 'pyquaternion', 'tqdm', 'cachetools'])
+      install_requires=['opencv-python', 'numpy', 'Pillow', 'matplotlib', 'importlib_metadata', 'pycocotools', 'scikit-learn', 'pyquaternion', 'tqdm', 'cachetools'])
